@@ -1,5 +1,7 @@
 # A Touch Friendly ES6 Module for HTML Eleement Resizing
- ```javascript
+Optimized and smooth HTML element resizer module supports all the edges and the corners.
+
+```javascript
 import resizer from './src/script.js'
 
 new resizer({
